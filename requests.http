@@ -1,0 +1,6 @@
+get https://imdb-api.com/en/API/SearchMovie/APIKEY/MOVIENAME
+
+### Movie index
+
+get http://localhost:3000/movies?movie_name=inception
+
